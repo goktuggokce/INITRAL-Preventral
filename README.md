@@ -2,6 +2,7 @@
 ### rabiadrgt/qlora-qwen3-8b-finetuned
 ### https://huggingface.co/rabiadrgt/qlora-qwen3-8b-finetuned/tree/main
 
+
 🛡️ PREVENTRAL - İSG Yeterlilik Değerlendirme Sistemi
 
 **Etkileşimli ve Çift Panelli İş Sağlığı ve Güvenliği Yeterlilik Değerlendirme Platformu**
